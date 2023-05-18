@@ -7,14 +7,14 @@ print the game board
 # the second part of the code
 take player input
 
-#the third part of the code 
+# the third part of the code 
 check for win and tie 
 
-#the fourth part of the code
+# the fourth part of the code
 switch the play 
 
-#the fifth part of code
+# the fifth part of code
 playing agains an ai
 
-#the sith part of the code 
+# the sith part of the code 
 check for win or tie again
